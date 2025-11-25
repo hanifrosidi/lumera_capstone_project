@@ -1,0 +1,6 @@
+[submodule "lumera_backend_api"]
+	path = lumera_backend_api
+	url = https://github.com/hanifrosidi/lumera_backend_api.git
+[submodule "lumera_ml_api"]
+	path = lumera_ml_api
+	url = https://github.com/hanifrosidi/lumera_ml_api.git
